@@ -107,18 +107,7 @@ The project contains three tables:
 
 ---
 
-## 📁 Project Structure
 
-```
-Bookstore-SQL-Database-Analysis/
-│
-├── Bookstore_SQL_Project.sql
-├── Books.csv
-├── Customers.csv
-├── Orders.csv
-├── README.md
-└── LICENSE
-```
 
 ---
 
