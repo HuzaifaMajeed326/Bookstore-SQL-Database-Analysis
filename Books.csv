@@ -1,0 +1,501 @@
+Book_ID,Title,Author,Genre,Published_Year,Price,Stock
+1,Beyond the Desert 1,Safiur Rahman Mubarakpuri,Islamic,1949,21.34,100
+2,The Patient Soul 2,Safiur Rahman Mubarakpuri,Spirituality,1971,35.8,19
+3,The Trustworthy 3,Haifaa Younis,Islamic,1913,15.75,27
+4,Mercy to Mankind 4,Haifaa Younis,Hadith,2020,43.52,8
+5,The Trustworthy 5,Safiur Rahman Mubarakpuri,Spirituality,1956,10.95,16
+6,The Trustworthy 6,Mufti Menk,Spirituality,1985,6.56,2
+7,The Trustworthy 7,Haifaa Younis,Spirituality,1927,43.63,95
+8,Wisdom of the Believers 8,Mufti Menk,Spirituality,2019,48.99,84
+9,The Sealed Path 9,Bilal Philips,Biography,1987,14.33,70
+10,Echoes of Medina 10,Muhammad Asad,Biography,2015,24.63,25
+11,Echoes of Medina 11,Safiur Rahman Mubarakpuri,Islamic,1998,35.95,10
+12,Gardens of Faith 12,Haifaa Younis,Biography,1989,27.43,63
+13,Light Upon Hearts 13,Haifaa Younis,Spirituality,1913,14.04,99
+14,The Patient Soul 14,Bilal Philips,Spirituality,1933,6.04,95
+15,The Patient Soul 15,Safiur Rahman Mubarakpuri,Biography,1997,23.83,58
+16,The Sealed Path 16,Mufti Menk,Islamic,1941,10.07,8
+17,The Patient Soul 17,Haifaa Younis,Hadith,1966,5.37,45
+18,Mercy to Mankind 18,Bilal Philips,Spirituality,2021,39.47,32
+19,Echoes of Medina 19,Bilal Philips,Quran,1990,11.31,1
+20,The Patient Soul 20,Yasir Qadhi,Quran,1978,48.13,64
+21,The Sealed Path 21,Omar Suleiman,Hadith,1925,47.13,87
+22,The Patient Soul 22,Bilal Philips,Biography,1908,39.23,78
+23,Light Upon Hearts 23,Abu Ammaar Yasir Qadhi,Hadith,1967,38.55,70
+24,Beyond the Desert 24,Nouman Ali Khan,History,1907,32.74,54
+25,The Trustworthy 25,Omar Suleiman,History,1984,8.55,79
+26,The Patient Soul 26,Nouman Ali Khan,Spirituality,1964,21.05,41
+27,The Patient Soul 27,Mufti Menk,Biography,1927,42.14,76
+28,Echoes of Medina 28,Haifaa Younis,Spirituality,1941,37.51,79
+29,Journey to Makkah 29,Yasir Qadhi,Quran,1905,31.12,100
+30,Wisdom of the Believers 30,Haifaa Younis,Spirituality,2012,30.58,37
+31,Mercy to Mankind 31,Haifaa Younis,Spirituality,2010,21.23,44
+32,The Sealed Path 32,Safiur Rahman Mubarakpuri,Islamic,2021,21.56,100
+33,The Trustworthy 33,Mufti Menk,History,2023,35.06,49
+34,The Sealed Path 34,Mufti Menk,Quran,1939,16.49,43
+35,Journey to Makkah 35,Bilal Philips,Biography,2018,31.81,85
+36,Echoes of Medina 36,Ali Hammuda,History,1949,34.51,86
+37,Gardens of Faith 37,Ali Hammuda,Spirituality,1955,13.08,3
+38,The Sealed Path 38,Yasir Qadhi,Hadith,2022,16.47,72
+39,The Sealed Path 39,Ali Hammuda,Islamic,1978,10.99,42
+40,Journey to Makkah 40,Mufti Menk,Spirituality,1923,25.97,94
+41,Gardens of Faith 41,Abu Ammaar Yasir Qadhi,Biography,1950,43.09,78
+42,The Trustworthy 42,Bilal Philips,Biography,1937,48.35,82
+43,The Sealed Path 43,Bilal Philips,Spirituality,1952,47.39,61
+44,The Trustworthy 44,Omar Suleiman,Biography,1965,13.55,0
+45,Mercy to Mankind 45,Haifaa Younis,Islamic,1984,25.49,59
+46,Gardens of Faith 46,Safiur Rahman Mubarakpuri,Islamic,1923,33.17,75
+47,The Trustworthy 47,Bilal Philips,Biography,2006,20.37,90
+48,Gardens of Faith 48,Safiur Rahman Mubarakpuri,Hadith,1963,24.7,94
+49,Echoes of Medina 49,Yasir Qadhi,Biography,1955,49.5,15
+50,Echoes of Medina 50,Ali Hammuda,Quran,1970,37.0,63
+51,The Sealed Path 51,Nouman Ali Khan,History,2022,46.3,95
+52,The Trustworthy 52,Abu Ammaar Yasir Qadhi,Biography,2003,16.53,85
+53,Echoes of Medina 53,Mufti Menk,Biography,1969,29.28,60
+54,Journey to Makkah 54,Haifaa Younis,Spirituality,2015,44.78,27
+55,The Sealed Path 55,Ali Hammuda,Spirituality,1934,27.32,66
+56,Beyond the Desert 56,Nouman Ali Khan,Hadith,1976,7.87,67
+57,Light Upon Hearts 57,Abu Ammaar Yasir Qadhi,Hadith,1962,23.59,27
+58,Gardens of Faith 58,Nouman Ali Khan,Islamic,1995,34.54,14
+59,The Trustworthy 59,Nouman Ali Khan,Islamic,2012,26.0,41
+60,The Patient Soul 60,Mufti Menk,History,1990,35.14,0
+61,The Sealed Path 61,Omar Suleiman,Quran,1934,41.05,10
+62,The Patient Soul 62,Omar Suleiman,Biography,1953,26.34,23
+63,Wisdom of the Believers 63,Mufti Menk,Hadith,1989,22.38,56
+64,Mercy to Mankind 64,Bilal Philips,Islamic,1963,24.1,86
+65,The Trustworthy 65,Nouman Ali Khan,Biography,1982,22.7,7
+66,Beyond the Desert 66,Haifaa Younis,Islamic,1961,28.29,93
+67,The Trustworthy 67,Abu Ammaar Yasir Qadhi,Hadith,1966,10.23,25
+68,Mercy to Mankind 68,Nouman Ali Khan,Hadith,1919,29.55,23
+69,Mercy to Mankind 69,Ali Hammuda,Islamic,1961,8.79,50
+70,The Patient Soul 70,Abu Ammaar Yasir Qadhi,Islamic,2021,23.45,19
+71,Light Upon Hearts 71,Omar Suleiman,Hadith,1950,38.5,40
+72,The Sealed Path 72,Abu Ammaar Yasir Qadhi,Biography,1959,46.54,65
+73,Journey to Makkah 73,Nouman Ali Khan,Biography,1933,21.23,39
+74,Beyond the Desert 74,Safiur Rahman Mubarakpuri,Quran,1986,45.12,83
+75,Mercy to Mankind 75,Ali Hammuda,Islamic,1912,47.11,3
+76,Journey to Makkah 76,Omar Suleiman,History,2009,41.33,9
+77,Beyond the Desert 77,Muhammad Asad,Islamic,1935,44.28,88
+78,The Sealed Path 78,Abu Ammaar Yasir Qadhi,Spirituality,1988,13.07,86
+79,The Trustworthy 79,Bilal Philips,Quran,1935,32.48,4
+80,Gardens of Faith 80,Yasir Qadhi,Islamic,1985,34.84,19
+81,The Sealed Path 81,Haifaa Younis,Quran,2010,44.19,13
+82,Journey to Makkah 82,Omar Suleiman,Quran,2001,45.7,38
+83,Gardens of Faith 83,Abu Ammaar Yasir Qadhi,Spirituality,2022,8.94,92
+84,The Trustworthy 84,Mufti Menk,Spirituality,1980,44.59,20
+85,Journey to Makkah 85,Muhammad Asad,Islamic,1939,19.43,29
+86,Gardens of Faith 86,Bilal Philips,Hadith,1948,25.51,44
+87,The Patient Soul 87,Muhammad Asad,Quran,1986,34.84,98
+88,The Sealed Path 88,Nouman Ali Khan,Quran,1999,40.22,32
+89,The Trustworthy 89,Yasir Qadhi,Biography,1959,14.72,16
+90,Wisdom of the Believers 90,Mufti Menk,Spirituality,1965,16.56,10
+91,Gardens of Faith 91,Mufti Menk,Biography,1923,27.82,81
+92,Echoes of Medina 92,Omar Suleiman,Islamic,1911,34.21,58
+93,Echoes of Medina 93,Nouman Ali Khan,Hadith,2009,17.43,37
+94,Beyond the Desert 94,Haifaa Younis,Islamic,2001,16.86,75
+95,Gardens of Faith 95,Bilal Philips,Islamic,1990,49.53,11
+96,Light Upon Hearts 96,Safiur Rahman Mubarakpuri,Hadith,1913,12.55,73
+97,The Sealed Path 97,Bilal Philips,History,2017,45.74,70
+98,The Sealed Path 98,Abu Ammaar Yasir Qadhi,History,1996,46.71,83
+99,The Trustworthy 99,Muhammad Asad,Hadith,1962,46.93,26
+100,Light Upon Hearts 100,Bilal Philips,Hadith,1906,49.89,29
+101,Mercy to Mankind 101,Ali Hammuda,Islamic,1923,48.49,40
+102,Light Upon Hearts 102,Mufti Menk,Islamic,1955,40.22,31
+103,The Trustworthy 103,Abu Ammaar Yasir Qadhi,Islamic,1907,43.25,11
+104,Beyond the Desert 104,Ali Hammuda,Biography,1948,10.56,82
+105,The Trustworthy 105,Abu Ammaar Yasir Qadhi,Quran,2005,30.02,4
+106,Echoes of Medina 106,Ali Hammuda,Islamic,1988,29.58,80
+107,The Sealed Path 107,Safiur Rahman Mubarakpuri,Spirituality,1996,19.85,44
+108,The Patient Soul 108,Ali Hammuda,Spirituality,1918,25.38,28
+109,The Sealed Path 109,Haifaa Younis,Quran,1970,8.54,60
+110,The Patient Soul 110,Nouman Ali Khan,Biography,1903,30.15,2
+111,Journey to Makkah 111,Nouman Ali Khan,Spirituality,1932,40.29,54
+112,Light Upon Hearts 112,Haifaa Younis,History,1969,8.02,21
+113,The Sealed Path 113,Abu Ammaar Yasir Qadhi,Islamic,1936,6.38,76
+114,Gardens of Faith 114,Yasir Qadhi,Biography,2016,7.28,2
+115,The Patient Soul 115,Safiur Rahman Mubarakpuri,Hadith,2021,28.12,37
+116,Gardens of Faith 116,Yasir Qadhi,Spirituality,1938,41.82,50
+117,The Patient Soul 117,Haifaa Younis,Biography,1966,14.87,20
+118,Gardens of Faith 118,Muhammad Asad,Islamic,2017,5.52,22
+119,The Sealed Path 119,Mufti Menk,Islamic,2010,49.88,76
+120,Gardens of Faith 120,Safiur Rahman Mubarakpuri,Islamic,1984,48.03,93
+121,Light Upon Hearts 121,Muhammad Asad,Islamic,1957,42.47,38
+122,The Patient Soul 122,Nouman Ali Khan,Biography,1992,30.75,17
+123,Wisdom of the Believers 123,Bilal Philips,Hadith,1938,37.6,16
+124,Gardens of Faith 124,Haifaa Younis,Spirituality,1968,27.1,11
+125,Gardens of Faith 125,Safiur Rahman Mubarakpuri,History,1990,32.41,16
+126,The Trustworthy 126,Omar Suleiman,Islamic,1949,25.33,78
+127,Mercy to Mankind 127,Abu Ammaar Yasir Qadhi,Spirituality,1997,11.66,0
+128,Mercy to Mankind 128,Mufti Menk,Quran,1949,24.04,35
+129,Beyond the Desert 129,Muhammad Asad,Biography,1959,40.74,29
+130,Echoes of Medina 130,Safiur Rahman Mubarakpuri,Quran,2004,6.64,90
+131,Gardens of Faith 131,Omar Suleiman,History,1902,27.28,11
+132,The Patient Soul 132,Muhammad Asad,Quran,1907,20.46,53
+133,The Trustworthy 133,Haifaa Younis,History,1911,20.96,90
+134,Gardens of Faith 134,Omar Suleiman,Quran,1955,35.72,49
+135,Mercy to Mankind 135,Yasir Qadhi,Biography,2001,15.13,83
+136,Light Upon Hearts 136,Nouman Ali Khan,Quran,2012,9.89,84
+137,Wisdom of the Believers 137,Mufti Menk,Quran,1942,26.33,1
+138,Light Upon Hearts 138,Nouman Ali Khan,Islamic,1978,24.77,8
+139,The Trustworthy 139,Abu Ammaar Yasir Qadhi,History,1923,35.4,51
+140,Gardens of Faith 140,Bilal Philips,Biography,2003,31.49,6
+141,Beyond the Desert 141,Haifaa Younis,Quran,1909,49.42,36
+142,The Sealed Path 142,Omar Suleiman,Quran,1940,48.96,11
+143,Light Upon Hearts 143,Omar Suleiman,Islamic,2012,43.65,50
+144,The Sealed Path 144,Mufti Menk,Islamic,1945,19.27,90
+145,Mercy to Mankind 145,Abu Ammaar Yasir Qadhi,Hadith,1905,22.53,57
+146,Mercy to Mankind 146,Nouman Ali Khan,History,1903,14.5,91
+147,Gardens of Faith 147,Bilal Philips,Biography,1964,45.2,74
+148,Mercy to Mankind 148,Yasir Qadhi,Spirituality,1941,12.25,97
+149,Journey to Makkah 149,Haifaa Younis,Islamic,1957,17.09,73
+150,Wisdom of the Believers 150,Bilal Philips,Hadith,1952,31.95,32
+151,Beyond the Desert 151,Bilal Philips,Hadith,1998,33.87,38
+152,The Patient Soul 152,Safiur Rahman Mubarakpuri,Biography,1983,46.77,84
+153,Journey to Makkah 153,Omar Suleiman,History,1950,8.05,52
+154,The Sealed Path 154,Abu Ammaar Yasir Qadhi,History,1919,17.44,19
+155,Wisdom of the Believers 155,Yasir Qadhi,Islamic,1901,49.96,88
+156,Echoes of Medina 156,Abu Ammaar Yasir Qadhi,Quran,1953,31.68,34
+157,The Patient Soul 157,Ali Hammuda,Biography,2005,19.17,57
+158,Beyond the Desert 158,Haifaa Younis,Islamic,1919,24.69,40
+159,Light Upon Hearts 159,Muhammad Asad,Islamic,1999,36.21,49
+160,Gardens of Faith 160,Bilal Philips,Spirituality,1924,34.48,65
+161,The Sealed Path 161,Omar Suleiman,Hadith,1963,21.6,11
+162,Gardens of Faith 162,Safiur Rahman Mubarakpuri,Biography,1981,48.84,64
+163,Journey to Makkah 163,Mufti Menk,History,1905,19.11,0
+164,Echoes of Medina 164,Safiur Rahman Mubarakpuri,Quran,2013,41.83,4
+165,The Trustworthy 165,Safiur Rahman Mubarakpuri,Biography,1912,32.1,19
+166,Echoes of Medina 166,Omar Suleiman,History,1951,11.02,56
+167,The Trustworthy 167,Safiur Rahman Mubarakpuri,History,1954,36.02,55
+168,Mercy to Mankind 168,Mufti Menk,Quran,2018,14.13,61
+169,Wisdom of the Believers 169,Yasir Qadhi,Islamic,1963,23.57,45
+170,Light Upon Hearts 170,Abu Ammaar Yasir Qadhi,Hadith,1947,11.28,62
+171,The Sealed Path 171,Abu Ammaar Yasir Qadhi,Quran,2004,32.15,99
+172,Wisdom of the Believers 172,Bilal Philips,Spirituality,1977,36.82,97
+173,Mercy to Mankind 173,Safiur Rahman Mubarakpuri,Islamic,1948,6.07,100
+174,Gardens of Faith 174,Mufti Menk,Islamic,1951,37.83,18
+175,The Trustworthy 175,Yasir Qadhi,Quran,1910,32.85,39
+176,The Patient Soul 176,Yasir Qadhi,Spirituality,1924,16.11,52
+177,The Sealed Path 177,Abu Ammaar Yasir Qadhi,Spirituality,1904,36.2,3
+178,The Trustworthy 178,Omar Suleiman,History,1970,27.89,31
+179,Beyond the Desert 179,Mufti Menk,Hadith,2009,48.21,66
+180,The Patient Soul 180,Ali Hammuda,History,2001,25.09,14
+181,Light Upon Hearts 181,Muhammad Asad,Quran,1987,38.73,85
+182,Gardens of Faith 182,Nouman Ali Khan,Spirituality,2014,23.76,9
+183,Journey to Makkah 183,Abu Ammaar Yasir Qadhi,Biography,2001,15.4,6
+184,Echoes of Medina 184,Safiur Rahman Mubarakpuri,Biography,1978,5.25,22
+185,Light Upon Hearts 185,Nouman Ali Khan,Quran,1940,21.98,10
+186,The Patient Soul 186,Ali Hammuda,Hadith,1938,41.33,4
+187,Journey to Makkah 187,Ali Hammuda,Hadith,1989,22.98,7
+188,The Sealed Path 188,Nouman Ali Khan,Islamic,2014,20.14,73
+189,Wisdom of the Believers 189,Abu Ammaar Yasir Qadhi,History,1989,13.65,88
+190,Beyond the Desert 190,Nouman Ali Khan,Islamic,2016,38.36,4
+191,The Trustworthy 191,Omar Suleiman,History,1911,42.19,8
+192,Journey to Makkah 192,Mufti Menk,Islamic,1930,48.37,71
+193,The Patient Soul 193,Mufti Menk,Quran,1954,29.54,100
+194,Echoes of Medina 194,Omar Suleiman,Spirituality,1982,33.88,64
+195,Echoes of Medina 195,Bilal Philips,Quran,2021,11.63,20
+196,Echoes of Medina 196,Ali Hammuda,Biography,1934,6.69,24
+197,Light Upon Hearts 197,Muhammad Asad,Quran,1980,43.03,9
+198,Echoes of Medina 198,Abu Ammaar Yasir Qadhi,History,1917,22.38,80
+199,Mercy to Mankind 199,Yasir Qadhi,Spirituality,1923,42.81,1
+200,Gardens of Faith 200,Abu Ammaar Yasir Qadhi,Islamic,1939,9.96,32
+201,Light Upon Hearts 201,Muhammad Asad,Biography,1915,37.25,11
+202,The Sealed Path 202,Mufti Menk,Biography,1964,12.26,32
+203,The Trustworthy 203,Muhammad Asad,History,2003,27.22,52
+204,Echoes of Medina 204,Nouman Ali Khan,Biography,1921,26.52,59
+205,Journey to Makkah 205,Yasir Qadhi,Biography,1990,5.83,8
+206,Mercy to Mankind 206,Bilal Philips,Hadith,1960,38.01,84
+207,The Patient Soul 207,Safiur Rahman Mubarakpuri,Hadith,1922,6.67,53
+208,Mercy to Mankind 208,Omar Suleiman,Biography,1917,25.0,83
+209,Journey to Makkah 209,Abu Ammaar Yasir Qadhi,Hadith,1979,48.67,63
+210,The Patient Soul 210,Safiur Rahman Mubarakpuri,Biography,1971,40.93,51
+211,Gardens of Faith 211,Bilal Philips,Islamic,1944,16.19,44
+212,Journey to Makkah 212,Mufti Menk,Quran,1950,18.69,35
+213,Gardens of Faith 213,Yasir Qadhi,Hadith,1903,6.79,35
+214,The Patient Soul 214,Abu Ammaar Yasir Qadhi,Islamic,2005,18.16,47
+215,Gardens of Faith 215,Nouman Ali Khan,Biography,1910,25.16,37
+216,Light Upon Hearts 216,Ali Hammuda,History,2019,24.63,92
+217,The Patient Soul 217,Omar Suleiman,Hadith,2019,35.38,98
+218,Beyond the Desert 218,Muhammad Asad,Hadith,1948,5.36,34
+219,The Trustworthy 219,Mufti Menk,History,1961,20.9,32
+220,Journey to Makkah 220,Muhammad Asad,Hadith,1904,16.51,60
+221,Beyond the Desert 221,Abu Ammaar Yasir Qadhi,Quran,1988,24.81,2
+222,Echoes of Medina 222,Mufti Menk,Hadith,1928,29.59,75
+223,The Trustworthy 223,Abu Ammaar Yasir Qadhi,Quran,1944,6.52,95
+224,Mercy to Mankind 224,Ali Hammuda,History,2007,42.15,80
+225,Echoes of Medina 225,Mufti Menk,Hadith,1976,36.04,26
+226,Journey to Makkah 226,Haifaa Younis,Hadith,1913,27.22,68
+227,Echoes of Medina 227,Ali Hammuda,Spirituality,1900,38.17,78
+228,The Sealed Path 228,Ali Hammuda,Hadith,1975,30.75,5
+229,Gardens of Faith 229,Ali Hammuda,Biography,1965,20.46,78
+230,Beyond the Desert 230,Bilal Philips,Hadith,1977,6.1,59
+231,The Trustworthy 231,Safiur Rahman Mubarakpuri,Islamic,1986,9.37,84
+232,Mercy to Mankind 232,Yasir Qadhi,Islamic,1925,9.62,1
+233,Light Upon Hearts 233,Yasir Qadhi,Biography,2011,10.39,47
+234,The Patient Soul 234,Mufti Menk,Hadith,2006,7.15,9
+235,Echoes of Medina 235,Bilal Philips,Biography,1957,15.66,19
+236,Gardens of Faith 236,Omar Suleiman,Hadith,1948,10.78,87
+237,Echoes of Medina 237,Abu Ammaar Yasir Qadhi,History,1905,40.43,42
+238,The Trustworthy 238,Muhammad Asad,Hadith,1975,48.97,72
+239,The Patient Soul 239,Muhammad Asad,Spirituality,1922,44.51,55
+240,The Sealed Path 240,Yasir Qadhi,Biography,1957,49.9,41
+241,Light Upon Hearts 241,Safiur Rahman Mubarakpuri,Islamic,2015,14.06,38
+242,The Trustworthy 242,Safiur Rahman Mubarakpuri,History,1954,33.79,38
+243,Light Upon Hearts 243,Abu Ammaar Yasir Qadhi,Biography,1953,8.87,65
+244,Light Upon Hearts 244,Safiur Rahman Mubarakpuri,Spirituality,1968,7.37,88
+245,Gardens of Faith 245,Yasir Qadhi,Islamic,2000,16.06,18
+246,Light Upon Hearts 246,Nouman Ali Khan,Islamic,1940,7.43,98
+247,Light Upon Hearts 247,Safiur Rahman Mubarakpuri,Biography,1934,24.42,45
+248,The Trustworthy 248,Muhammad Asad,Islamic,2021,46.99,68
+249,Echoes of Medina 249,Bilal Philips,Spirituality,1928,32.95,58
+250,Light Upon Hearts 250,Haifaa Younis,History,1918,12.65,13
+251,Echoes of Medina 251,Yasir Qadhi,Islamic,1906,8.87,98
+252,The Sealed Path 252,Ali Hammuda,Spirituality,1902,12.62,43
+253,The Sealed Path 253,Abu Ammaar Yasir Qadhi,Spirituality,1961,11.66,21
+254,Mercy to Mankind 254,Haifaa Younis,Quran,1916,42.57,100
+255,Mercy to Mankind 255,Nouman Ali Khan,Spirituality,1906,24.51,24
+256,Journey to Makkah 256,Muhammad Asad,Biography,1981,36.86,77
+257,Journey to Makkah 257,Haifaa Younis,Spirituality,1935,21.14,33
+258,Beyond the Desert 258,Yasir Qadhi,Biography,1916,9.95,6
+259,Beyond the Desert 259,Omar Suleiman,Quran,1994,14.48,1
+260,The Patient Soul 260,Muhammad Asad,Islamic,1907,49.59,10
+261,Journey to Makkah 261,Mufti Menk,History,1964,14.25,52
+262,Wisdom of the Believers 262,Yasir Qadhi,History,1979,21.02,86
+263,Mercy to Mankind 263,Haifaa Younis,Quran,1965,9.79,3
+264,Echoes of Medina 264,Yasir Qadhi,Islamic,2015,20.51,47
+265,Journey to Makkah 265,Mufti Menk,Quran,1926,46.6,66
+266,Echoes of Medina 266,Omar Suleiman,Quran,1927,33.29,92
+267,The Patient Soul 267,Yasir Qadhi,Quran,1905,37.49,24
+268,The Sealed Path 268,Omar Suleiman,Islamic,1960,8.1,62
+269,The Trustworthy 269,Muhammad Asad,Spirituality,1963,33.08,42
+270,The Sealed Path 270,Yasir Qadhi,History,1919,13.17,25
+271,The Trustworthy 271,Bilal Philips,Islamic,1974,22.08,82
+272,Echoes of Medina 272,Muhammad Asad,Biography,1959,5.16,79
+273,The Patient Soul 273,Abu Ammaar Yasir Qadhi,Spirituality,1929,12.43,23
+274,Beyond the Desert 274,Abu Ammaar Yasir Qadhi,Spirituality,1903,48.8,72
+275,Light Upon Hearts 275,Mufti Menk,Biography,2006,25.83,91
+276,The Patient Soul 276,Haifaa Younis,Quran,1911,19.85,32
+277,Gardens of Faith 277,Omar Suleiman,History,1909,33.21,95
+278,Echoes of Medina 278,Ali Hammuda,Spirituality,1901,48.61,69
+279,Wisdom of the Believers 279,Abu Ammaar Yasir Qadhi,Islamic,2008,30.5,28
+280,Light Upon Hearts 280,Safiur Rahman Mubarakpuri,Hadith,1977,16.78,97
+281,Light Upon Hearts 281,Haifaa Younis,Islamic,1931,16.34,83
+282,Beyond the Desert 282,Mufti Menk,Hadith,2016,38.19,3
+283,Gardens of Faith 283,Bilal Philips,Islamic,1903,17.0,94
+284,Mercy to Mankind 284,Ali Hammuda,Spirituality,1906,15.21,99
+285,Wisdom of the Believers 285,Nouman Ali Khan,Spirituality,1914,27.65,34
+286,Journey to Makkah 286,Haifaa Younis,Quran,1900,8.29,84
+287,The Sealed Path 287,Abu Ammaar Yasir Qadhi,Quran,1994,40.19,32
+288,The Patient Soul 288,Ali Hammuda,History,1908,27.91,9
+289,The Patient Soul 289,Omar Suleiman,Spirituality,1959,20.12,66
+290,The Patient Soul 290,Yasir Qadhi,Hadith,1988,43.81,31
+291,Wisdom of the Believers 291,Ali Hammuda,Hadith,1957,7.77,13
+292,Wisdom of the Believers 292,Yasir Qadhi,Spirituality,2017,26.94,2
+293,Beyond the Desert 293,Ali Hammuda,Hadith,1955,17.93,58
+294,The Trustworthy 294,Abu Ammaar Yasir Qadhi,Hadith,1964,42.53,29
+295,Echoes of Medina 295,Safiur Rahman Mubarakpuri,Quran,1977,28.66,65
+296,Echoes of Medina 296,Muhammad Asad,Spirituality,1949,11.49,49
+297,Gardens of Faith 297,Muhammad Asad,Quran,2016,35.65,2
+298,Wisdom of the Believers 298,Mufti Menk,Spirituality,1957,46.66,62
+299,Mercy to Mankind 299,Nouman Ali Khan,Islamic,1909,28.19,73
+300,Beyond the Desert 300,Bilal Philips,Quran,1962,26.87,77
+301,Light Upon Hearts 301,Bilal Philips,History,1975,21.66,77
+302,Light Upon Hearts 302,Mufti Menk,Hadith,1981,28.67,92
+303,Echoes of Medina 303,Muhammad Asad,Spirituality,1968,6.57,77
+304,The Patient Soul 304,Haifaa Younis,Hadith,1935,13.48,23
+305,Echoes of Medina 305,Omar Suleiman,Biography,1999,31.66,27
+306,The Trustworthy 306,Mufti Menk,Quran,1988,43.92,56
+307,Wisdom of the Believers 307,Mufti Menk,Biography,1914,14.43,7
+308,The Trustworthy 308,Nouman Ali Khan,Biography,2009,20.75,35
+309,Journey to Makkah 309,Safiur Rahman Mubarakpuri,Quran,1939,11.74,77
+310,Beyond the Desert 310,Abu Ammaar Yasir Qadhi,Islamic,2021,47.92,40
+311,The Patient Soul 311,Mufti Menk,Spirituality,1903,32.28,48
+312,The Patient Soul 312,Safiur Rahman Mubarakpuri,Spirituality,1946,36.47,13
+313,The Sealed Path 313,Omar Suleiman,Quran,1997,47.16,53
+314,Light Upon Hearts 314,Abu Ammaar Yasir Qadhi,Spirituality,1914,9.59,74
+315,The Sealed Path 315,Muhammad Asad,History,2012,42.9,40
+316,Echoes of Medina 316,Haifaa Younis,Biography,1992,8.81,74
+317,Light Upon Hearts 317,Abu Ammaar Yasir Qadhi,Biography,1961,29.2,13
+318,Light Upon Hearts 318,Safiur Rahman Mubarakpuri,Spirituality,1921,40.11,94
+319,Gardens of Faith 319,Haifaa Younis,Hadith,1964,42.61,50
+320,Echoes of Medina 320,Bilal Philips,Islamic,1950,5.07,55
+321,Beyond the Desert 321,Mufti Menk,Hadith,1911,24.32,16
+322,The Sealed Path 322,Omar Suleiman,Biography,1932,26.49,42
+323,The Trustworthy 323,Bilal Philips,Quran,1976,35.83,2
+324,Echoes of Medina 324,Haifaa Younis,History,1993,46.08,23
+325,Mercy to Mankind 325,Nouman Ali Khan,Islamic,1981,40.4,50
+326,The Patient Soul 326,Nouman Ali Khan,History,1903,15.15,78
+327,Journey to Makkah 327,Bilal Philips,Spirituality,1984,21.4,29
+328,Beyond the Desert 328,Abu Ammaar Yasir Qadhi,Biography,1940,10.26,28
+329,Journey to Makkah 329,Nouman Ali Khan,History,1973,38.49,27
+330,Journey to Makkah 330,Ali Hammuda,Hadith,1990,32.02,25
+331,Light Upon Hearts 331,Safiur Rahman Mubarakpuri,History,1936,15.36,89
+332,Gardens of Faith 332,Mufti Menk,Quran,1968,49.08,17
+333,Gardens of Faith 333,Yasir Qadhi,Quran,1959,27.76,29
+334,The Trustworthy 334,Mufti Menk,Islamic,1913,35.68,88
+335,Beyond the Desert 335,Bilal Philips,Quran,1938,47.29,23
+336,Mercy to Mankind 336,Bilal Philips,Biography,2006,24.08,26
+337,The Sealed Path 337,Abu Ammaar Yasir Qadhi,Biography,1901,34.28,44
+338,The Sealed Path 338,Yasir Qadhi,Spirituality,1949,10.17,61
+339,Gardens of Faith 339,Omar Suleiman,Hadith,2014,43.51,68
+340,Wisdom of the Believers 340,Safiur Rahman Mubarakpuri,Islamic,1907,49.98,88
+341,The Trustworthy 341,Safiur Rahman Mubarakpuri,Quran,1933,19.59,42
+342,The Sealed Path 342,Yasir Qadhi,History,1969,17.11,84
+343,Gardens of Faith 343,Bilal Philips,Quran,2006,43.03,86
+344,The Sealed Path 344,Abu Ammaar Yasir Qadhi,Hadith,1990,39.63,27
+345,Beyond the Desert 345,Ali Hammuda,Hadith,1920,25.89,78
+346,Mercy to Mankind 346,Haifaa Younis,History,1965,9.97,23
+347,The Trustworthy 347,Haifaa Younis,Islamic,1906,6.1,86
+348,Echoes of Medina 348,Muhammad Asad,Islamic,1907,12.62,22
+349,The Sealed Path 349,Mufti Menk,Hadith,2013,44.36,51
+350,Light Upon Hearts 350,Safiur Rahman Mubarakpuri,Biography,2008,31.67,49
+351,Gardens of Faith 351,Omar Suleiman,Islamic,1972,34.98,42
+352,Mercy to Mankind 352,Omar Suleiman,History,1927,6.01,97
+353,Journey to Makkah 353,Safiur Rahman Mubarakpuri,Spirituality,1984,46.97,41
+354,Echoes of Medina 354,Muhammad Asad,Spirituality,1927,21.09,41
+355,Journey to Makkah 355,Bilal Philips,Spirituality,1987,8.1,34
+356,Light Upon Hearts 356,Safiur Rahman Mubarakpuri,Quran,1957,25.65,44
+357,Echoes of Medina 357,Haifaa Younis,Spirituality,1983,11.85,27
+358,Wisdom of the Believers 358,Omar Suleiman,History,1962,7.18,29
+359,The Trustworthy 359,Mufti Menk,Islamic,1970,28.19,99
+360,The Patient Soul 360,Yasir Qadhi,Islamic,2020,49.34,73
+361,The Sealed Path 361,Omar Suleiman,Hadith,1957,39.75,71
+362,Journey to Makkah 362,Nouman Ali Khan,Quran,1933,29.43,64
+363,Wisdom of the Believers 363,Safiur Rahman Mubarakpuri,Islamic,1915,7.48,52
+364,The Patient Soul 364,Haifaa Younis,History,1923,43.82,86
+365,Beyond the Desert 365,Nouman Ali Khan,Spirituality,1955,10.64,99
+366,Gardens of Faith 366,Ali Hammuda,Spirituality,1922,13.1,4
+367,Wisdom of the Believers 367,Mufti Menk,Quran,1940,29.32,35
+368,The Trustworthy 368,Ali Hammuda,History,1913,44.6,97
+369,Beyond the Desert 369,Bilal Philips,Spirituality,1966,22.65,100
+370,Light Upon Hearts 370,Nouman Ali Khan,Spirituality,1977,43.91,97
+371,Light Upon Hearts 371,Abu Ammaar Yasir Qadhi,Hadith,1959,17.4,43
+372,Wisdom of the Believers 372,Safiur Rahman Mubarakpuri,Islamic,1905,17.73,42
+373,Wisdom of the Believers 373,Bilal Philips,Quran,1911,39.09,49
+374,Mercy to Mankind 374,Safiur Rahman Mubarakpuri,Islamic,1987,24.26,72
+375,Gardens of Faith 375,Nouman Ali Khan,Biography,1993,34.15,55
+376,The Patient Soul 376,Muhammad Asad,Spirituality,1997,29.26,76
+377,The Trustworthy 377,Muhammad Asad,Hadith,2007,39.79,55
+378,The Sealed Path 378,Haifaa Younis,Islamic,1903,6.01,0
+379,Mercy to Mankind 379,Safiur Rahman Mubarakpuri,Islamic,1916,5.7,95
+380,Gardens of Faith 380,Muhammad Asad,Islamic,1984,13.17,78
+381,Beyond the Desert 381,Yasir Qadhi,Hadith,1977,10.6,14
+382,Beyond the Desert 382,Haifaa Younis,History,2012,33.19,27
+383,The Trustworthy 383,Ali Hammuda,Quran,1927,42.17,71
+384,Journey to Makkah 384,Omar Suleiman,Hadith,1911,33.92,46
+385,Journey to Makkah 385,Omar Suleiman,Hadith,1962,27.25,65
+386,Light Upon Hearts 386,Ali Hammuda,Biography,1944,6.36,71
+387,Gardens of Faith 387,Muhammad Asad,History,1979,47.42,6
+388,Light Upon Hearts 388,Bilal Philips,Quran,1917,26.62,5
+389,The Trustworthy 389,Ali Hammuda,Hadith,1928,25.39,89
+390,Mercy to Mankind 390,Abu Ammaar Yasir Qadhi,Hadith,1947,39.96,35
+391,Echoes of Medina 391,Bilal Philips,Spirituality,2009,33.42,35
+392,Echoes of Medina 392,Safiur Rahman Mubarakpuri,Quran,1963,35.52,86
+393,Echoes of Medina 393,Mufti Menk,Hadith,1987,44.0,44
+394,Echoes of Medina 394,Omar Suleiman,Quran,1994,27.15,59
+395,Mercy to Mankind 395,Ali Hammuda,Quran,1945,34.05,19
+396,Mercy to Mankind 396,Omar Suleiman,Biography,1967,22.34,97
+397,The Trustworthy 397,Yasir Qadhi,History,1969,28.15,50
+398,Wisdom of the Believers 398,Nouman Ali Khan,Islamic,1998,33.41,50
+399,Light Upon Hearts 399,Abu Ammaar Yasir Qadhi,Quran,2007,14.34,25
+400,Gardens of Faith 400,Nouman Ali Khan,Spirituality,1915,34.57,47
+401,Light Upon Hearts 401,Yasir Qadhi,History,1997,31.72,37
+402,Light Upon Hearts 402,Bilal Philips,Hadith,1982,21.38,24
+403,The Sealed Path 403,Nouman Ali Khan,Spirituality,1928,15.01,82
+404,The Trustworthy 404,Ali Hammuda,Spirituality,1915,15.65,69
+405,Mercy to Mankind 405,Abu Ammaar Yasir Qadhi,Spirituality,1916,7.42,98
+406,Journey to Makkah 406,Abu Ammaar Yasir Qadhi,Islamic,2006,35.79,50
+407,The Trustworthy 407,Haifaa Younis,Quran,1947,42.19,50
+408,Gardens of Faith 408,Ali Hammuda,Quran,1946,10.07,2
+409,The Patient Soul 409,Abu Ammaar Yasir Qadhi,History,1941,21.56,49
+410,Gardens of Faith 410,Yasir Qadhi,History,2005,44.33,42
+411,Echoes of Medina 411,Nouman Ali Khan,Islamic,2012,15.03,83
+412,Mercy to Mankind 412,Ali Hammuda,History,1921,9.83,5
+413,Light Upon Hearts 413,Omar Suleiman,Hadith,1997,10.35,89
+414,The Sealed Path 414,Bilal Philips,Quran,1999,22.55,93
+415,Light Upon Hearts 415,Omar Suleiman,Spirituality,1976,29.51,18
+416,The Patient Soul 416,Muhammad Asad,History,2018,49.1,96
+417,Beyond the Desert 417,Bilal Philips,Islamic,1945,46.61,48
+418,Beyond the Desert 418,Omar Suleiman,Quran,1927,31.88,83
+419,Light Upon Hearts 419,Abu Ammaar Yasir Qadhi,Islamic,1981,9.28,25
+420,Light Upon Hearts 420,Mufti Menk,Biography,1907,33.14,35
+421,Journey to Makkah 421,Mufti Menk,Hadith,1901,40.05,58
+422,Gardens of Faith 422,Bilal Philips,Islamic,1919,45.91,39
+423,Beyond the Desert 423,Bilal Philips,Quran,1943,25.63,14
+424,Wisdom of the Believers 424,Nouman Ali Khan,Islamic,1935,40.5,84
+425,Beyond the Desert 425,Haifaa Younis,Islamic,1990,24.23,45
+426,Mercy to Mankind 426,Safiur Rahman Mubarakpuri,Quran,2021,32.82,98
+427,Gardens of Faith 427,Haifaa Younis,Spirituality,1965,18.0,46
+428,Wisdom of the Believers 428,Muhammad Asad,History,1966,22.73,66
+429,The Trustworthy 429,Safiur Rahman Mubarakpuri,Spirituality,2002,42.58,95
+430,Light Upon Hearts 430,Abu Ammaar Yasir Qadhi,Islamic,1922,11.9,76
+431,The Patient Soul 431,Muhammad Asad,Quran,1965,19.48,31
+432,Light Upon Hearts 432,Nouman Ali Khan,History,1951,8.84,55
+433,The Patient Soul 433,Safiur Rahman Mubarakpuri,Quran,1944,22.09,81
+434,Journey to Makkah 434,Mufti Menk,Islamic,1942,45.58,4
+435,Wisdom of the Believers 435,Haifaa Younis,History,1939,27.76,10
+436,The Trustworthy 436,Ali Hammuda,Biography,1916,15.9,54
+437,Light Upon Hearts 437,Abu Ammaar Yasir Qadhi,Spirituality,1960,44.29,7
+438,The Sealed Path 438,Omar Suleiman,Spirituality,1913,33.39,82
+439,Wisdom of the Believers 439,Safiur Rahman Mubarakpuri,Biography,1970,16.0,94
+440,The Trustworthy 440,Mufti Menk,Quran,2000,27.42,68
+441,Gardens of Faith 441,Abu Ammaar Yasir Qadhi,Biography,2013,40.72,65
+442,Beyond the Desert 442,Abu Ammaar Yasir Qadhi,History,1993,48.48,93
+443,Journey to Makkah 443,Mufti Menk,Spirituality,1987,44.05,89
+444,Journey to Makkah 444,Yasir Qadhi,History,1907,12.73,26
+445,Mercy to Mankind 445,Muhammad Asad,History,2007,13.61,71
+446,Wisdom of the Believers 446,Ali Hammuda,Biography,1909,34.49,7
+447,The Trustworthy 447,Nouman Ali Khan,Quran,1906,36.25,9
+448,Light Upon Hearts 448,Bilal Philips,Hadith,1929,6.26,70
+449,Wisdom of the Believers 449,Safiur Rahman Mubarakpuri,Islamic,1966,40.17,1
+450,Echoes of Medina 450,Yasir Qadhi,History,1935,45.75,18
+451,Light Upon Hearts 451,Omar Suleiman,Spirituality,2009,5.63,87
+452,Echoes of Medina 452,Yasir Qadhi,Quran,1909,40.78,5
+453,Gardens of Faith 453,Omar Suleiman,Islamic,1996,48.55,65
+454,Wisdom of the Believers 454,Nouman Ali Khan,Islamic,1940,9.56,94
+455,Beyond the Desert 455,Nouman Ali Khan,Spirituality,1960,27.03,55
+456,The Sealed Path 456,Safiur Rahman Mubarakpuri,History,1991,20.11,37
+457,Journey to Makkah 457,Muhammad Asad,History,1953,28.22,2
+458,Light Upon Hearts 458,Nouman Ali Khan,Spirituality,1914,37.28,53
+459,The Sealed Path 459,Haifaa Younis,Quran,2013,35.77,45
+460,Light Upon Hearts 460,Muhammad Asad,Spirituality,1900,35.88,39
+461,Light Upon Hearts 461,Nouman Ali Khan,History,1969,9.6,39
+462,Mercy to Mankind 462,Nouman Ali Khan,Quran,1988,49.23,62
+463,Echoes of Medina 463,Haifaa Younis,Hadith,1911,11.99,36
+464,Mercy to Mankind 464,Muhammad Asad,Hadith,1998,38.54,12
+465,Echoes of Medina 465,Nouman Ali Khan,Quran,1920,24.93,78
+466,Echoes of Medina 466,Yasir Qadhi,History,2015,37.17,93
+467,Mercy to Mankind 467,Safiur Rahman Mubarakpuri,Islamic,1979,13.82,96
+468,Journey to Makkah 468,Mufti Menk,History,1987,30.59,83
+469,Wisdom of the Believers 469,Haifaa Younis,Quran,1967,23.25,92
+470,Journey to Makkah 470,Yasir Qadhi,Islamic,1915,27.67,40
+471,Gardens of Faith 471,Mufti Menk,Islamic,1929,45.38,37
+472,The Patient Soul 472,Haifaa Younis,Hadith,1942,28.09,9
+473,The Trustworthy 473,Abu Ammaar Yasir Qadhi,Spirituality,1964,30.26,72
+474,The Patient Soul 474,Haifaa Younis,Spirituality,2010,46.84,98
+475,Gardens of Faith 475,Nouman Ali Khan,Biography,1986,47.76,100
+476,Mercy to Mankind 476,Omar Suleiman,History,1907,39.42,37
+477,Journey to Makkah 477,Nouman Ali Khan,Biography,2019,27.71,17
+478,Beyond the Desert 478,Haifaa Younis,Hadith,1913,35.46,53
+479,The Trustworthy 479,Muhammad Asad,Biography,2009,38.27,60
+480,Echoes of Medina 480,Muhammad Asad,Islamic,1940,38.15,75
+481,Beyond the Desert 481,Mufti Menk,Hadith,1980,10.55,77
+482,Beyond the Desert 482,Nouman Ali Khan,History,1965,31.96,33
+483,Echoes of Medina 483,Haifaa Younis,Biography,1931,14.03,46
+484,The Patient Soul 484,Abu Ammaar Yasir Qadhi,History,1991,37.51,37
+485,Gardens of Faith 485,Mufti Menk,Biography,1900,23.16,57
+486,The Trustworthy 486,Omar Suleiman,Quran,2018,19.13,52
+487,Light Upon Hearts 487,Omar Suleiman,Quran,1921,39.26,26
+488,Journey to Makkah 488,Nouman Ali Khan,Hadith,1985,49.15,64
+489,The Patient Soul 489,Mufti Menk,Spirituality,1906,34.02,49
+490,Echoes of Medina 490,Nouman Ali Khan,Hadith,2019,12.88,40
+491,The Trustworthy 491,Yasir Qadhi,History,1910,14.87,2
+492,Gardens of Faith 492,Safiur Rahman Mubarakpuri,History,1984,44.07,76
+493,Mercy to Mankind 493,Ali Hammuda,Hadith,1956,28.08,89
+494,The Patient Soul 494,Muhammad Asad,Hadith,1901,6.66,59
+495,Mercy to Mankind 495,Mufti Menk,History,1987,20.31,43
+496,Gardens of Faith 496,Bilal Philips,Hadith,1966,43.75,96
+497,Beyond the Desert 497,Abu Ammaar Yasir Qadhi,History,1919,24.1,33
+498,Wisdom of the Believers 498,Mufti Menk,Spirituality,1975,10.88,22
+499,Echoes of Medina 499,Nouman Ali Khan,History,1905,6.94,64
+500,Journey to Makkah 500,Yasir Qadhi,Quran,1921,15.94,64
