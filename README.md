@@ -104,12 +104,7 @@ The project contains three tables:
 - Cities of high-spending customers
 - Top two customers by spending
 - Remaining stock after fulfilling orders
-
----
-
-
-
----
+  
 
 ## 🚀 Learning Outcomes
 
